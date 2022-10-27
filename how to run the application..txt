@@ -7,9 +7,10 @@ step 2: open the folder using your visual studio code or any other code editor
 
 step 3: open your terminal on your visual studio code 
 
-step 4: Type the below  command in the terminal you've opened
+step 4: Type the below commands in the terminal you've opened
 
 
+pip install pygame
 python pool.py build
 
 
