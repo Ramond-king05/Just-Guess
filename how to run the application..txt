@@ -1,0 +1,33 @@
+Note: make sure you are connected to the internet before taking any of this steps....
+
+
+step 1: download the file from github to your local pc
+
+step 2: open the folder using your visual studio code or any other code editor
+
+step 3: open your terminal on your visual studio code 
+
+step 4: Type the below  command in the terminal you've opened
+
+
+python pool.py build
+
+
+step 5: wait until the command execute sucessfully ..
+
+
+step 6: after execution navigate to your folder in which you downloaded on your pc 
+
+
+step 7: you will see a new folder there named "build"...  then click on build and move to "exe.win-amd64-3.10"
+
+step 8: then click on "guess"
+
+step 9: wait abit for the application to run a start enjoying the application......
+
+
+
+
+
+
+note: make sure you are connected to the internet before taking any of this steps....
