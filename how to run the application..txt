@@ -3,7 +3,9 @@ Note: make sure you are connected to the internet before taking any of this step
 
 step 1: download the file from github to your local pc
 
-step 2: open the folder using your visual studio code or any other code editor
+step 2: open the folder using your visual studio code or any other code editor..  if you don't have click on this link to download it     https://code.visualstudio.com/docs/?dv=win  then make sure it's installed sucessfully.
+
+after opening the visual studio code application you will see a terminal button in the upper part of the app.
 
 step 3: open your terminal on your visual studio code 
 
